@@ -1,0 +1,16 @@
+{
+  "name": "Medical Assistant",
+  "short_name": "MedAssist",
+  "description": "An AI-powered medical assistant for everyday emergencies. Provides immediate, step-by-step first aid guidance via text or voice input.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B2C3D",
+  "theme_color": "#0B2C3D",
+  "icons": [
+    {
+      "src": "/public/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

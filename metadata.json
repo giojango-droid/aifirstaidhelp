@@ -1,0 +1,7 @@
+{
+  "name": "Medical Assistant",
+  "description": "An AI-powered medical assistant for everyday emergencies. Provides immediate, step-by-step first aid guidance via text or voice input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
